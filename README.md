@@ -1,4 +1,4 @@
-# helloworld
+# my-app
 
 ## Project setup
 ```
